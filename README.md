@@ -1,8 +1,11 @@
 # Este es mi archivo README inicial
 Completaremos a partir de aqui
-###Encabezado de terceiro nivel
-####Encabezado de cuarto nivel
-#####Encabezado de quinto nivel
+# Sintaxis de escritura y formato básicos
+## Crear formatos sofisticados para tu prosa y código en GitHub con sintaxis simple.
+### Encabezado de terceiro nivel
+#### Encabezado de cuarto nivel
+##### Encabezado de quinto nivel
+**Esto es texto en negrita.** Y esto no es un texto en negrita, pero __esto vuelve a ser un texto en negrita__
 
 **tachado**
 
