@@ -1,0 +1,4 @@
+#Esto sera ignorado
+
+*.exe
+backup/
