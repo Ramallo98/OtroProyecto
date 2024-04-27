@@ -12,7 +12,7 @@
   - [Estilo de texto](#estilo-de-texto)
 
 
-  - [Entrecomillado de texto](#entrecomillado-de-texto)
+  - [Citado de texto](#citado-de-texto)
   
   
   - [Código de cita](#código-de-cita)
@@ -123,10 +123,13 @@ El estilo todo Subscript y cursiva usa esta sinxasis <sub> </sub>, y no tiene m�
 El estilo todo Superscript usa esta sinxasis <sup> </sup>, y no tiene métodos abreviados de teclado, Este tipo de estilo se utiliza para poner <sup>superíndices</sup>.
 
 
-## Entrecomillado de texto
+## Citado de texto
+Para citar texto utilizamos el símbolo > .
+
+> Esta actividad es un trabajo para la asignatura de Contornos del ciclo superior de Desarrollo de Aplicaciones Multiplaforma de 1º Curso.
 
 ## Código de cita
-
+Puede indicar un código o un comando dentro de un enunciado con comillas simples. El texto dentro de las comillas simples no será formateado. También puedes presionar el método abreviado de teclado Comando+E (Mac) o Ctrl+E (Windows o Linux) para insertar las comillas simples de bloque de código en una línea de Markdown.
 
 ## Modelos de color compatibles
 
