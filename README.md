@@ -1,62 +1,62 @@
 # Sintaxis de escritura con markdown en archivos README.md 
 
 ## Indice
-# [Archivo README](Archivo-README)
+1. [Archivo README](Archivo-README)
 
-## [Sintaxis Básica](#sintaxis-básica)
-
-
-## [Encabezados](#encabezados)
+2. [Sintaxis Básica](#sintaxis-básica)
 
 
-## [Estilo de texto](#estilo-de-texto)
+  - [Encabezados](#encabezados)
 
 
-## [Entrecomillado de texto](#entrecomillado-de-texto)
+  - [Estilo de texto](#estilo-de-texto)
 
 
-## [Código de cita](#código-de-cita)
+  - [Entrecomillado de texto](#entrecomillado-de-texto)
+  
+  
+  - [Código de cita](#código-de-cita)
+  
+  
+  - [Modelos de color compatibles](#modelos-de-color-compatibles)
+  
+  - [Vínculos](#vínculos)
+  
+  
+  - [Enlaces de sección](#enlaces-de-sección)
+  
+  
+  - [Vínculos relativos](#vínculos-relativos)
+  
+  
+  - [Imágenes](#imágenes)
+  
+  
+  - [Listas](#listas)
+  
+  - [Mencionar personas y equipos](#mencionar-personas-y-equipos)
+  
+  - [Hacer referencia a propuestas y solicitudes de extracción](#hacer-referencia-a-propuestas-y-solicitudes-de-extracción)
+  
+  - [Hacer referencia a recursos externos](#hacer-referencia-a-recursos-externos)
+  
+  - [Cargar activos](#cargar-activos)
+  
+  - [Usar emojis](#usar-emojis)
+  
+  - [Párrafos](#párrafos)
+  
+  - [Notas al pie](#notas-al-pie)
+  
+  - [Alertas](#alertas)
+  
+  - [Ocultar el contenido con comentarios](#ocultar-el-contenido-con-comentarios)
+  
+  - [Ignorar formato de Markdown](#ignorar-formato-de-markdown)
+  
+  - [Inhabilitar la representación del lenguaje de marcado](#inhabilitar-la-representación-del-lenguaje-de-marcado)
 
-
-## [Modelos de color compatibles](#modelos-de-color-compatibles)
-
-## [Vínculos](#vínculos)
-
-
-## [Enlaces de sección](#enlaces-de-sección)
-
-
-## [Vínculos relativos](#vínculos-relativos)
-
-
-## [Imágenes](#imágenes)
-
-
-## [Listas](#listas)
-
-## [Mencionar personas y equipos](#mencionar-personas-y-equipos)
-
-## [Hacer referencia a propuestas y solicitudes de extracción](#hacer-referencia-a-propuestas-y-solicitudes-de-extracción)
-
-## [Hacer referencia a recursos externos](#hacer-referencia-a-recursos-externos)
-
-## [Cargar activos](#cargar-activos)
-
-## [Usar emojis](#usar-emojis)
-
-## [Párrafos](#párrafos)
-
-## [Notas al pie](#notas-al-pie)
-
-## [Alertas](#alertas)
-
-## [Ocultar el contenido con comentarios](#ocultar-el-contenido-con-comentarios)
-
-## [Ignorar formato de Markdown](#ignorar-formato-de-markdown)
-
-## [Inhabilitar la representación del lenguaje de marcado](#inhabilitar-la-representación-del-lenguaje-de-marcado)
-
-## [Sintaxis avanzada](#sintaxis-avanzada)
+3. [Sintaxis avanzada](#sintaxis-avanzada)
 
 ## [Creación de una tabla](#creación-de-una-tabla)
 
@@ -91,6 +91,12 @@ Un archivo README es un documento que generalmente se encuentra en un proyecto d
 
 ## Encabezados
 Para crear un encabezado, agrega entre uno y seis símbolos # antes del encabezado del texto. El número de # que utilices determinará el nivel jerárquico y el tamaño tipográfico del encabezado.
+
+# Encabezado de primer nivel
+## Encabezado de segundo nivel
+### Encabezado de tercer nivel
+#### Encabezado de cuarto nivel
+##### Encabezado de quinto nivel
 
 ## Estilo de texto
 Puedes indicar énfasis con texto en negrita, cursiva, tachado, o de subíndice o superíndice en los campos de comentarios y archivos .md.
@@ -203,19 +209,7 @@ El estilo todo Superscript usa esta sinxasis <sup> </sup>, y no tiene métodos a
 
 
 
-## Archivo README
 
-
-
-# Sintaxis de escritura y formato básicos (Encabezado de primer nivel)
-## Crear formatos sofisticados para tu prosa y código en GitHub con sintaxis simple. (Encabezado de segundo nivel)
-### Encabezados. (Encabezado de tercer nivel)
-#### Encabezado de cuarto nivel
-##### Encabezado de quinto nivel
-
-### Estilos de texto.
-
-### 
 
 
 
