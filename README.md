@@ -1,7 +1,7 @@
 # Sintaxis de escritura con markdown en archivos README.md 
 
 ## Indice
-1. [Archivo README](Archivo-README)
+1. [Archivo README](#archivo-readme)
 
 2. [Sintaxis Básica](#sintaxis-básica)
 
