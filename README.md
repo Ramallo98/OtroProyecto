@@ -1,10 +1,98 @@
-# Sintaxis de escritura y formato básicos (Encabezado de primer nivel)
-## Crear formatos sofisticados para tu prosa y código en GitHub con sintaxis simple. (Encabezado de segundo nivel)
-### Encabezados. (Encabezado de tercer nivel)
-#### Encabezado de cuarto nivel
-##### Encabezado de quinto nivel
+# Sintaxis de escritura con markdown en archivos README.md 
 
-### Estilos de texto.
+## Indice
+# [Archivo README](Archivo-README)
+
+## [Sintaxis Básica](#sintaxis-básica)
+
+
+## [Encabezados](#encabezados)
+
+
+## [Estilo de texto](#estilo-de-texto)
+
+
+## [Entrecomillado de texto](#entrecomillado-de-texto)
+
+
+## [Código de cita](#código-de-cita)
+
+
+## [Modelos de color compatibles](#modelos-de-color-compatibles)
+
+## [Vínculos](#vínculos)
+
+
+## [Enlaces de sección](#enlaces-de-sección)
+
+
+## [Vínculos relativos](#vínculos-relativos)
+
+
+## [Imágenes](#imágenes)
+
+
+## [Listas](#listas)
+
+## [Mencionar personas y equipos](#mencionar-personas-y-equipos)
+
+## [Hacer referencia a propuestas y solicitudes de extracción](#hacer-referencia-a-propuestas-y-solicitudes-de-extracción)
+
+## [Hacer referencia a recursos externos](#hacer-referencia-a-recursos-externos)
+
+## [Cargar activos](#cargar-activos)
+
+## [Usar emojis](#usar-emojis)
+
+## [Párrafos](#párrafos)
+
+## [Notas al pie](#notas-al-pie)
+
+## [Alertas](#alertas)
+
+## [Ocultar el contenido con comentarios](#ocultar-el-contenido-con-comentarios)
+
+## [Ignorar formato de Markdown](#ignorar-formato-de-markdown)
+
+## [Inhabilitar la representación del lenguaje de marcado](#inhabilitar-la-representación-del-lenguaje-de-marcado)
+
+## [Sintaxis avanzada](#sintaxis-avanzada)
+
+## [Creación de una tabla](#creación-de-una-tabla)
+
+## [Formatear el contenido dentro de tu tabla](#formatear-el-contenido-dentro-de-tu-tabla)
+
+## [Creación de una sección contraída](#creación-de-una-sección-contraída)
+
+## [Crear y resaltar bloques de código](#crear-y-resaltar-bloques-de-código)
+
+## [Bloques de código delimitados](#bloques-de-código-delimitados)
+
+## [Resaltado de sintaxis](#resaltado-de-sintaxis)
+
+## [Crear diagramas](#crear-diagramas)
+
+## [Crear diagramas de Mermaid](#crear-diagramas-de-mermaid)
+Cómo crear diagramas utilizando la sintaxis de Mermaid.
+
+## [Escritura de expresiones matemáticas](#escritura-de-expresiones-matemáticas)
+
+## [Referencias y direcciones URL autovinculadas](#referencias-y-direcciones-url-autovinculadas)
+
+## [Adjuntar archivos](#adjuntar-archivos)
+
+
+# Archivo README
+
+Un archivo README es un documento que generalmente se encuentra en un proyecto de software o en un repositorio de código fuente. Este archivo suele contener información importante sobre el proyecto, como instrucciones de instalación, configuración, uso y contribución. Además, puede incluir detalles sobre la licencia del software, la estructura del proyecto, los requisitos del sistema, la documentación adicional y cualquier otra información relevante para los usuarios y desarrolladores que trabajan con el proyecto. El README es una herramienta fundamental para proporcionar orientación y contexto a quienes interactúan con el proyecto.
+
+# Sintaxis Básica
+
+
+## Encabezados
+Para crear un encabezado, agrega entre uno y seis símbolos # antes del encabezado del texto. El número de # que utilices determinará el nivel jerárquico y el tamaño tipográfico del encabezado.
+
+## Estilo de texto
 Puedes indicar énfasis con texto en negrita, cursiva, tachado, o de subíndice o superíndice en los campos de comentarios y archivos .md.
 
 ##### El estilo Bold
@@ -27,6 +115,105 @@ El estilo todo Subscript y cursiva usa esta sinxasis <sub> </sub>, y no tiene m�
 
 ##### El estilo Superscript
 El estilo todo Superscript usa esta sinxasis <sup> </sup>, y no tiene métodos abreviados de teclado, Este tipo de estilo se utiliza para poner <sup>superíndices</sup>.
+
+
+## Entrecomillado de texto
+
+## Código de cita
+
+
+## Modelos de color compatibles
+
+
+## Vínculos
+
+
+## Enlaces de sección
+
+
+## Vínculos relativos
+
+
+## Imágenes
+
+
+## Listas
+
+
+## Mencionar personas y equipos
+
+
+## Hacer referencia a propuestas y solicitudes de extracción
+
+
+## Hacer referencia a recursos externos
+
+
+## Cargar activos
+
+
+## Usar emojis
+
+
+## Párrafos
+
+
+## Notas al pie
+
+
+## Alertas
+
+
+## Ocultar el contenido con comentarios
+
+
+## Ignorar formato de Markdown
+
+
+## Inhabilitar la representación del lenguaje de marcado
+
+
+## Sintaxis avanzada
+
+
+## Creación de una tabla
+
+
+## Formatear el contenido dentro de tu tabla
+
+
+## Creación de una sección contraída
+
+
+## Crear y resaltar bloques de código
+
+## Bloques de código delimitados
+
+## Resaltado de sintaxis
+
+## Crear diagramas
+
+## Crear diagramas de Mermaid
+
+## Escritura de expresiones matemáticas
+
+## Referencias y direcciones URL autovinculadas
+
+## Adjuntar archivos
+
+
+
+## Archivo README
+
+
+
+# Sintaxis de escritura y formato básicos (Encabezado de primer nivel)
+## Crear formatos sofisticados para tu prosa y código en GitHub con sintaxis simple. (Encabezado de segundo nivel)
+### Encabezados. (Encabezado de tercer nivel)
+#### Encabezado de cuarto nivel
+##### Encabezado de quinto nivel
+
+### Estilos de texto.
 
 ### 
 
