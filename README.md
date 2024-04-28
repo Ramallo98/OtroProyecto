@@ -366,6 +366,19 @@ Mermaid es una herramienta inspirada en Markdown que representa texto en diagram
 
 Para crear un diagrama de Mermaid, se agrega la sintaxis de Mermaid dentro de un bloque de código delimitado con el identificador de idioma `mermaid`. 
 
+Para hacer diagramas de flujo especificamos a dónde debe apuntar cada elemento con los caracteres `-->`.
+
+```mermaid
+graph TD;
+    A-->B;
+    B-->C;
+    C-->D;
+    D-->A;
+```
+
+
+Para hacer un diagrama de árbol con elementos padres e hijos especificamos los padres con `A` y los hijos con `B` y así sucesivamente al principio de cada elemento encerrado en `()`:
+
 ```mermaid
 graph TD;
     A[Desarrollo de aplicaciones Multiplataforma] --> B(Asignaturas);
