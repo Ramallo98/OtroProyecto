@@ -64,14 +64,14 @@
   
   - [Crear diagramas](#crear-diagramas)
   
-  [Crear diagramas de Mermaid](#crear-diagramas-de-mermaid)
-  Cómo crear diagramas utilizando la sintaxis de Mermaid.
+    - [Crear diagramas de Mermaid](#crear-diagramas-de-mermaid)
+
   
-  [Escritura de expresiones matemáticas](#escritura-de-expresiones-matemáticas)
-  
-  [Referencias y direcciones URL autovinculadas](#referencias-y-direcciones-url-autovinculadas)
-  
-   [Adjuntar archivos](#adjuntar-archivos)
+  - [Escritura de expresiones matemáticas](#escritura-de-expresiones-matemáticas)
+    - [Escritura de expresiones insertadas](#escritura-de-expresiones-insertadas)
+    - [Escritura de expresiones como bloques](#escritura-de-expresiones-como-bloques)
+
+   - [Adjuntar archivos](#adjuntar-archivos)
 
 
 # Archivo README
@@ -359,16 +359,62 @@ public class HolaMundo {
 ````
 
 ## Crear diagramas
+Se puede crear diagramas en Markdown con tres sintaxis diferentes: Mermaid, geoJSON y topoJSON, y STL ASCII. En este trabajo solo entraremos en Mermaid.
 
-## Crear diagramas de Mermaid
+### Crear diagramas de Mermaid
+Mermaid es una herramienta inspirada en Markdown que representa texto en diagramas.
+
+Para crear un diagrama de Mermaid, se agrega la sintaxis de Mermaid dentro de un bloque de código delimitado con el identificador de idioma `mermaid`. 
+
+```mermaid
+graph TD;
+    A[Desarrollo de aplicaciones Multiplataforma] --> B(Asignaturas);
+    B --> C(Entornos de Desarrollo );
+    B --> D(Lenguajes de marcas);
+    B --> E(Programacion);
+    B --> F(Sistemas Informaticos);
+    B --> G(Bases de Datos);
+```
+
 
 ## Escritura de expresiones matemáticas
+La funcionalidad de representación de expresiones matemáticas de GitHub usa MathJax, un motor de visualización basado en JavaScript de código abierto. MathJax admite una amplia gama de macros de LaTeX y varias extensiones de accesibilidad útiles.
 
-## Referencias y direcciones URL autovinculadas
+### Escritura de expresiones insertadas
+Hay dos opciones para delimitar una expresión matemática insertada con el texto. Puedes rodear la expresión con símbolos de dólar `$` o iniciar la expresión con  $ seguido de comilla \` y terminarla con $ antecedido de \`.
+
+La fórmula del área de un círculo es $\pi r^2$.
+
+### Escritura de expresiones como bloques
+Para agregar una expresión matemática como un bloque, empieza una línea nueva y delimita la expresión con dos símbolos de dólar `$$`.
+
+$$
+\int_{-\infty}^{\infty} e^{-x^2} \, dx = \sqrt{\pi}
+$$
 
 ## Adjuntar archivos
+Para adjuntar un archivo a una propuesta o una conversación de una solicitud de extracción, arrástralo y suéltalo en el cuadro de comentarios. Como alternativa, puedes hacer clic en 📎 en la barra de formato situada encima del cuadro de comentario para examinar, seleccionar y agregar un archivo desde el equipo.
 
+Al adjuntar un archivo, se carga inmediatamente en GitHub.
 
+El tamaño máximo de archivo es:
 
++ 10 MB para imágenes y gifs.
++ 10 MB para videos que se suban a un repositorio que pertenezca a un usuario u organización en un plan gratuito GitHub.
++ 100 MB para videos que se suban a un repositorio que pertenezca a un usuario u organización en un plan de pago GitHub.
++ 25MB para el resto de los archivos.
+Archivos compatibles:
 
++ PNG (.png)
++ GIF (.gif)
++ JPEG (.jpg, .jpeg)
++ SVG (.svg)
++ Archivos de registro (.log)
++ Archivos Markdown (.md)
++ Documentos de Microsoft Word (.docx), PowerPoint (.pptx) y Excel (.xlsx)
++ Archivos de texto (.txt)
++ Archivos de revisión (.patch)
++ PDFs (.pdf)
++ ZIP (.zip, .gz, .tgz)
++ Vídeo (.mp4, .mov, .webm)
 
