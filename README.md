@@ -52,28 +52,26 @@
 
 3. [Sintaxis avanzada](#sintaxis-avanzada)
 
-## [Creación de una tabla](#creación-de-una-tabla)
+  - [Creación de una tabla](#creación-de-una-tabla)
 
-## [Formatear el contenido dentro de tu tabla](#formatear-el-contenido-dentro-de-tu-tabla)
+  - [Formatear el contenido dentro de tu tabla](#formatear-el-contenido-dentro-de-tu-tabla)
 
-## [Creación de una sección contraída](#creación-de-una-sección-contraída)
-
-## [Crear y resaltar bloques de código](#crear-y-resaltar-bloques-de-código)
-
-## [Bloques de código delimitados](#bloques-de-código-delimitados)
-
-## [Resaltado de sintaxis](#resaltado-de-sintaxis)
-
-## [Crear diagramas](#crear-diagramas)
-
-## [Crear diagramas de Mermaid](#crear-diagramas-de-mermaid)
-Cómo crear diagramas utilizando la sintaxis de Mermaid.
-
-## [Escritura de expresiones matemáticas](#escritura-de-expresiones-matemáticas)
-
-## [Referencias y direcciones URL autovinculadas](#referencias-y-direcciones-url-autovinculadas)
-
-## [Adjuntar archivos](#adjuntar-archivos)
+  - [Creación de una sección contraída](#creación-de-una-sección-contraída)
+  
+  - [Crear y resaltar bloques de código](#crear-y-resaltar-bloques-de-código)
+    - [Bloques de código delimitados](#bloques-de-código-delimitados)
+    - [Resaltado de sintaxis](#resaltado-de-sintaxis)
+  
+  - [Crear diagramas](#crear-diagramas)
+  
+  [Crear diagramas de Mermaid](#crear-diagramas-de-mermaid)
+  Cómo crear diagramas utilizando la sintaxis de Mermaid.
+  
+  [Escritura de expresiones matemáticas](#escritura-de-expresiones-matemáticas)
+  
+  [Referencias y direcciones URL autovinculadas](#referencias-y-direcciones-url-autovinculadas)
+  
+   [Adjuntar archivos](#adjuntar-archivos)
 
 
 # Archivo README
@@ -334,9 +332,31 @@ No son pocas las voces que anuncian un aumento en la demanda de PC gracias a la 
 
 ## Crear y resaltar bloques de código
 
-## Bloques de código delimitados
+### Bloques de código delimitados
+Puede crear bloques de código delimitados colocando comillas simples triples ``` antes y después del bloque de código. Si se quiere mostrar las comillas triples  podemos encerrarlas entre comillas cuádruples ````.
 
-## Resaltado de sintaxis
+### Resaltado de sintaxis
+```
+
+public class HolaMundo {
+    public static void main(String[] args) {
+        // Imprime "Hola Mundo" en la consola
+        System.out.println("Hola Mundo");
+    }
+}
+
+```
+
+````
+```
+public class HolaMundo {
+    public static void main(String[] args) {
+        // Imprime "Hola Mundo" en la consola
+        System.out.println("Hola Mundo");
+    }
+}
+```
+````
 
 ## Crear diagramas
 
